@@ -1,1 +1,1 @@
-# Student-grade-prediction
+# Prediction of student grades
